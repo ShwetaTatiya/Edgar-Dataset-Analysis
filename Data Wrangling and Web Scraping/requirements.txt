@@ -1,4 +1,0 @@
-requests==2.18.4
-boto==2.48.0
-beautifulsoup4==4.6.0
-pandas==0.22.0
